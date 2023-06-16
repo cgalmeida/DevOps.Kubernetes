@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FYFiE8JWzZz0qsdk7/06Dci2Y1c0QS/ykTiB6mepQ0Y=",
+  "Source": "SampleApiAKS",
+  "BasePath": "_content/SampleApiAKS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
